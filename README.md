@@ -244,4 +244,4 @@ This repository serves as the official landing page for QuickLook. The software 
 **Get the most recent version of QuickLook today!**
 
 ---
-**Last updated:** 2026-09-12 22:03:35 UTC
+**Last updated:** 2026-09-13 00:42:42 UTC
